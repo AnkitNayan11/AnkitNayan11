@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnkitNayan11
+- 👋 Hi, I’m @Ankit-Sigmoid
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning spark
 - 💞️ I’m looking to collaborate on open source projecs
