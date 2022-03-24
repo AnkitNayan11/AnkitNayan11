@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning spark
 - 💞️ I’m looking to collaborate on open source projecs
-- 📫 How to reach me ks1987450@gmail.com
+- 📫 How to reach me anayan@sigmoidanalytics.com
 
 <!---
 AnkitNayan11/AnkitNayan11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
